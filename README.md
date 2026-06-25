@@ -45,10 +45,8 @@ safety form) and inside the game.
 
 - The "Effective date" on each page is set to **25 June 2026**. Update it
   whenever you change the content.
-- The third-party advertising/analytics partners listed in the Privacy Policy
-  (Voodoo, Google, AppLovin, Unity/ironSource) are typical of Voodoo's
-  mediation stack. Confirm the actual SDKs shipped in the build and adjust the
-  list if needed.
-- The Terms of Service "Governing law" clause is written generically. If The
-  Sixth Hammer wants to name a specific country/state, edit section 13 of
-  `terms-of-service.html`.
+- The Privacy Policy lists **Voodoo** as the sole advertising/analytics
+  provider. If any additional SDKs are shipped in the build, add them to
+  section 5 of `privacy-policy.html`.
+- Governing law is set to the **Republic of Bulgaria** (Terms section 13),
+  where The Sixth Hammer is established.
